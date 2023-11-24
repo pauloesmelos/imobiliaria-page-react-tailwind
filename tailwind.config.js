@@ -12,9 +12,9 @@ export default {
     },
     keyframes: {
       ping: {
-        "0%": { transform: "translateY(0)", background: "#ccc"},
+        "0%": { transform: "translateY(0)", background: "#45FF7D"},
         "50%": { transform: "translateY(-8px)", background: "#25D366"},
-        "100%": { transform: "translateY(0)", background: "#ccc"}
+        "100%": { transform: "translateY(0)", background: "#45FF7D"}
       }
     },
     animation: {

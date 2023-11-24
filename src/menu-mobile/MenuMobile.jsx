@@ -6,7 +6,7 @@ const MenuMobile = ({ mobile, setMobile }) => {
     setMobile(false);
   }
   return (
-    <nav className={`absolute w-full h-[280px] bg-white top-0 left-0 duration-300 ease-in-out ${mobile ? "z-30" : "mt-[-100%]"}`}>
+    <nav className={`absolute w-full h-[280px] bg-white top-0 left-0 duration-300 ease-in-out ${mobile ? "z-30" : "mt-[-100rem]"}`}>
       <div className="flex justify-center">
         <button
         onClick={closeMobileMenu}

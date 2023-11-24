@@ -4,14 +4,14 @@ import { FaPhone } from 'react-icons/fa6';
 const Sidebar = () => {
   return (
     <aside className="font-Poppins h-screen w-[200px] bg-white hidden sm:flex border-r-2">
-      <div className="fixed">
+      <div className="fixed bg-white h-screen border-r-2">
         <div className="px-2 py-4">
             <h1 className="font-bold text-rose-500 text-2xl">DevHouse</h1>
         </div>
         <div className="flex flex-col w-[200px] px-3">
             <a 
             href="#"
-            className="text-gray-500 font-medium p-3 py-5 hover:bg-slate-100 hover:text-black/90 duration-300">
+            className="text-gray-500 font-medium p-3 mt-5 hover:bg-slate-100 hover:text-black/90 duration-300">
                 Aluguel
             </a>
             <a
