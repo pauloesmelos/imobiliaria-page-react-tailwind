@@ -1,8 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Instalando o site.
 
-Currently, two official plugins are available:
+Para instalar o site, siga estas etapas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+```
+git clone https://github.com/pauloesmelos/imobiliaria-page-react-tailwind.git
+```
+```
+cd (insira a pasta raíz do projeto)
+```
+```
+npm install
+```
+```
+npm run dev
+```
+
+## 💻 Construído com:
+
+- Reactjs `https://react.dev/>`
+- Tailwind `https://tailwindcss.com/docs/guides/vite`.
+- Vite `https://vitejs.dev/`.
+
+## ☕ Imagem.
+
+![Captura de tela 2023-11-23 221829](https://github.com/pauloesmelos/imobiliaria-page-react-tailwind/assets/74941958/04095c46-6948-45ae-8350-f49992187c4d)
